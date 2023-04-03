@@ -27,7 +27,7 @@ heroSettings:
   headingText: Tatum Travels
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: a safe and adventerous travel group for women
+  subheadingText: a safe and adventurous travel group for women
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Contact # no button generated if left blank
   buttonURL: /contact/ # full url required. Example: https://thisdomain.com/somepage/
